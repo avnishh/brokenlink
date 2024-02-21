@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+
+<suite name=" Maven suite">
+
+
+
+	<test name="Maven test_">
+
+
+
+		<classes>
+
+
+			<class name="data.DataTest" />
+			
+
+		</classes>
+
+	</test>
+
+
+</suite>
