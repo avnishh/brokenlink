@@ -21,7 +21,7 @@ public class DataTest {
 
 	  @DataProvider(name = "data-provider")
 	  
-      public static Object[][] getTestData() throws InvalidFormatException {
+      public static Object[][] getTetData() throws InvalidFormatException {
 			FileInputStream file = null;
 			try {
 				file = new FileInputStream("D:\\Automation\\Brokenlinks\\src\\test\\resources\\Book1.xlsx");
